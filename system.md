@@ -13,7 +13,7 @@ The premise of [name of system] is to be a flexible generic Role-Playing system 
 
 ##Normal Distributions
 
-The purpose of rolling two six sided die as the game mechanic is to obtain a standard deviation of dice rolls, and the player is encourage to remember this concept throughout the game.
+The purpose of rolling two six sided die as the game mechanic is to obtain a standard deviation of dice rolls, and the player is encouraged to remember this concept throughout the game.
 
 ##Player Character Aspects
 
@@ -65,11 +65,11 @@ Depending on the setting being used Character may be able to carry weapons and i
 
 ##Character Creation:
 
-Print the [character sheet](#). Fill out your character's basic information. If your setting using races and alignment, make sure to follow the setting's directions for them. 
+Print the [character sheet](#). Fill out your character's basic information. Your setting may have specific rules for player creation, for instance D&D style races or alignment. 
 
 You should first fill out your character's primary aspects, Intelligence, Moxie, and Strength. All of those aspects start out as 0. You have a combination of one +2 raise, two +1 raises, and one -1 subtraction to apply among the primary aspects. 
 
-Once you've determined your primary aspects fill in your secondary aspects which as based on sums of your primary ones. 
+Once you've determined your primary aspects fill in your secondary aspects which are based on sums of your primary ones. 
 
 * Dexterity = Intelligence + Strength
 * Persuade = Intelligence + Moxie
