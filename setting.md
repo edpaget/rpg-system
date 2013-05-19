@@ -1,7 +1,7 @@
-#The World of Arbe - A setting for [rpg system name]
+#The World of Elo - A setting for [rpg system name]
 
 ##Background
-Arbe is a planet pretty similar to Earth except that it has magic. Or well sometype of super/supra-natural force that people attuned to it can use. For the first sessession we'll be playing in Bronze Age Abre, and there will be a choice of three starting locations for the party. 
+Elo is a planet pretty similar to Earth except that it has magic. Or well sometype of super/supra-natural force that people attuned to it can use. For the first sessession we'll be playing in Bronze Age Abre, and there will be a choice of three starting locations for the party. 
 
 ### Finjara
 Built at the mouth of the Great Harbor of Finjara, with the white peaks of the Wyrm Mnts rising behind it, Finjara is the great city of the north. While normally too cold and dry for much of the year, hot springs and an intricate hydroponics system have allowed its inhabitants to flourish in the Taiga. 
@@ -26,6 +26,7 @@ The Alcemid are a highly devout people, who value education and learning above a
 | Javelin | Strength | Dexterity| 1BP | 20/Strength |
 | Sword| Dexterity| Strength | 1BP | N/A |
 | Bow | Dexterity | Dexterity| 1BP | 50/Stength |
+| Unarmed - Wrestling | Strength | Strength | 1BP | N/A |
 
 ## Armor
 | Name | Defence |Restrictions |
