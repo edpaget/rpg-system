@@ -45,11 +45,11 @@ All powers cost PP equal to their level (e.g. Light Breeze costs 1PP Part Clouds
 | Summon Winds | | N/A | Causes a wind of the users choosing to appear 10kmph ^ Level | (10m^2)^Level | Area |
 
 ### Healing - Intelligence
-| Name | Description | Defence | Effect | Range | Target |
-|------|:-----------:|:--------:|:-------:|:-------|:-----:|-------:|
-| Close Wounds | | Intelligence | N/A | Heals any surface wounds | Adjacent | Single |
-| Set Bones | | Intelligence | N/A | Fixes any broken bones | Adjacent | Single |
-| Cure Minor Illness | | Intelligence | N/A | Cures minor infections | Adjacent Single |
+| Name | Description | Defence  | Effect  | Range  | Target | 
+|------|:-----------:|:--------:|:-------:|:-------|-------:|
+| Close Wounds | | N/A | Heals any surface wounds | Adjacent | Single |A
+| Set Bones | | N/A | Fixes any broken bones | Adjacent | Single |
+| Cure Minor Illness | | N/A | Cures minor infections | Adjacent Single |
 
 ### Fire - Strength
 | Name | Description | Defence | Effect | Range | Target |
