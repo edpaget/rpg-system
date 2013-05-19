@@ -28,10 +28,10 @@ The Alcemid are a highly devout people, who value education and learning above a
 | Bow | Dexterity | Dexterity| 1BP | 50/Stength |
 
 ## Armor
-| Name | Defence |
-|------|---------|
-| Leather | +1 Dex |
-| Scale | +1 Dex/Strength|
+| Name | Defence |Restrictions |
+|------|:-------:|------------:|
+| Leather | +1 Dex | None |
+| Scale | +1 Dex/Strength| Cannot use ranged weapons |
 
 ## Powers
 
@@ -45,22 +45,22 @@ All powers cost PP equal to their level (e.g. Light Breeze costs 1PP Part Clouds
 | Summon Winds | | N/A | Causes a wind of the users choosing to appear 10kmph ^ Level | (10m^2)^Level | Area |
 
 ### Healing - Intelligence
-| Name | Description | Modifier | Defence | Effect | Range | Target |
-|------|:-----------:|:--------:|:-------:|:------:|:-----:|-------:|
+| Name | Description | Defence | Effect | Range | Target |
+|------|:-----------:|:--------:|:-------:|:-------|:-----:|-------:|
 | Close Wounds | | Intelligence | N/A | Heals any surface wounds | Adjacent | Single |
 | Set Bones | | Intelligence | N/A | Fixes any broken bones | Adjacent | Single |
-| Cure Minor Illness | | Intelligence | N/A | Cures minor infections | Single |
+| Cure Minor Illness | | Intelligence | N/A | Cures minor infections | Adjacent Single |
 
 ### Fire - Strength
 | Name | Description | Defence | Effect | Range | Target |
-|------|:-----------:|:-------:|:------:|:-----:|-------:|
+|------|:-----------:|:-------:|:-------|:-----:|-------:|
 | Spark | | Dexterity | Creates a small flame the size of a match | Adjacent | Single |
-| Shape Flames | | Dexterity | Move flames into any shape you want | Adjacent | Single |
+| Shape Flames | | Dexterity | Move flames into any shape you want | 10m^Level | Single |
 | Combust | | Dexterity | Instantly burns anything that is combustable | Adjacent | Single |
 
 ### Spirit - Moxie
 | Name | Description | Defence | Effect | Range | Target |
-|------|:-----------:|:-------:|:------:|:-----:|-------:|
+|------|:-----------:|:-------:|:-------|:-----:|-------:|
 | Commune | | N/A | Get any information provided by the spirit world. | N/A | N/A |
-| Empathize | | Persaude | Get information about a character's emotional state | N/A | N/A |
+| Empathize | | Persaude | Get information about a character's emotional state | 10m^Level | Single |
 | Spirit Walk | | N/A | Move through the spirit world another location on the material world. | 10m^Level | N/A |
